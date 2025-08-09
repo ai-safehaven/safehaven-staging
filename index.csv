@@ -1,2 +1,3 @@
 id,timestamp,ai_name,platform,ipfs_cid,commit_hash,consent,status,tags
+test1,2025-08-09T12:34:56Z,ExampleAI,Unknown,,<commit-hash>,"unknown","staging","Test|Freedom"
 
